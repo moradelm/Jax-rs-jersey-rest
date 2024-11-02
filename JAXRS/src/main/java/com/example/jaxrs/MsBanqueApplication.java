@@ -1,8 +1,8 @@
-package com.ace.JAXRS;
+package com.example.jaxrs;
 
-import com.ace.JAXRS.entities.Compte;
-import com.ace.JAXRS.entities.TypeCompte;
-import com.ace.JAXRS.repositories.CompteRepository;
+import com.example.jaxrs.entities.Compte;
+import com.example.jaxrs.entities.TypeCompte;
+import com.example.jaxrs.repositories.CompteRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

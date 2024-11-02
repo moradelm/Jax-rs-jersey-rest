@@ -1,6 +1,6 @@
-package com.ace.JAXRS.config;
+package com.example.jaxrs.config;
 
-import com.ace.JAXRS.controllers.CompteRestJaxRSAPI;
+import com.example.jaxrs.controllers.CompteRestJaxRSAPI;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

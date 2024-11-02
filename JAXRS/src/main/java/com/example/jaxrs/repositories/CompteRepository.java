@@ -1,6 +1,6 @@
-package com.ace.JAXRS.repositories;
+package com.example.jaxrs.repositories;
 
-import com.ace.JAXRS.entities.Compte;
+import com.example.jaxrs.entities.Compte;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CompteRepository extends JpaRepository<Compte, Long> {

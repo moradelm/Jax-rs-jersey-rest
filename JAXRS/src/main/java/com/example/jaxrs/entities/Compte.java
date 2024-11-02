@@ -1,4 +1,4 @@
-package com.ace.JAXRS.entities;
+package com.example.jaxrs.entities;
 
 import jakarta.persistence.*;
 import jakarta.xml.bind.annotation.XmlRootElement;

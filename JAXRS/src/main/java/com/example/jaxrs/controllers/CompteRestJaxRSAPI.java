@@ -1,7 +1,7 @@
-package com.ace.JAXRS.controllers;
+package com.example.jaxrs.controllers;
 
-import com.ace.JAXRS.entities.Compte;
-import com.ace.JAXRS.repositories.CompteRepository;
+import com.example.jaxrs.entities.Compte;
+import com.example.jaxrs.repositories.CompteRepository;
 import jakarta.ws.rs.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import jakarta.ws.rs.core.MediaType;

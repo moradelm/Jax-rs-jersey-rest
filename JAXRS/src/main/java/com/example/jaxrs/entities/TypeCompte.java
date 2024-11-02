@@ -1,4 +1,4 @@
-package com.ace.JAXRS.entities;
+package com.example.jaxrs.entities;
 
 public enum TypeCompte {
     COURANT, EPARGNE

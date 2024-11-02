@@ -1,4 +1,4 @@
-package com.ace.JAXRS;
+package com.example.jaxrs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
